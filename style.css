@@ -27,10 +27,11 @@
     width: 250px;
     height: 160px;
     cursor: pointer;
+    margin-right: 20px;
   }
 
   .info-container {
-    margin-left: 20px;
+    margin-left: 10px;
     padding: 5px;
     color: #333;
     font-size: 16px;
